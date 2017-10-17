@@ -6,17 +6,17 @@
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@cycle/isolate/-/isolate-3.0.0.tgz#668662017469aaa2a48d69eb96979a7b529ca6e5"
 
-"@cycle/run@*", "@cycle/run@3.x":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@cycle/run/-/run-3.1.0.tgz#76df582a501d2d1b871f8f6decf263afae090384"
+"@cycle/run@4.0.0-rc.3":
+  version "4.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@cycle/run/-/run-4.0.0-rc.3.tgz#e1fe55f6cb7b0247f8ec0e6cd97f48c0c152aeb0"
   dependencies:
     xstream "10.x"
 
-"@cycle/rxjs-run@7.x":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/@cycle/rxjs-run/-/rxjs-run-7.0.0.tgz#f4c95d9a1b390e3a2e61706284f9e737e7de8aa8"
+"@cycle/rxjs-run@8.0.0-rc.3":
+  version "8.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@cycle/rxjs-run/-/rxjs-run-8.0.0-rc.3.tgz#aece71a0d7e3980844a3c4e7c8de6e8558eee22b"
   dependencies:
-    "@cycle/run" "3.x"
+    "@cycle/run" "4.0.0-rc.3"
 
 "@types/mocha@^2.2.33":
   version "2.2.40"
